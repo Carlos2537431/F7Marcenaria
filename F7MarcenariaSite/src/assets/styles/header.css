@@ -1,0 +1,28 @@
+/* Estilos para o cabeçalho */
+.header {
+    background-color: #d63384;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header-title {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  .header-nav {
+    margin-top: 10px;
+  }
+  
+  .header-link {
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.2s;
+  }
+  
+  .header-link:hover {
+    color: #f0a1c2;
+  }

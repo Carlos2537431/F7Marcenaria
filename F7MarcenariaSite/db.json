@@ -1,0 +1,20 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Apoiador de Mão",
+            "preco": 250.0,
+            "quantidade": 5,
+            "imagem": "../public/Mesa.jpeg",
+            "descricao": "Apoiador de mão ergonômico para maior conforto."
+        },
+        {
+            "id": 2,
+            "nome": "Apoiador de Cotovelo",
+            "preco": 50.0,
+            "quantidade": 3,
+            "imagem": "../public/ApoiadorCutuvelo.jpeg",
+            "descricao": "Apoiador de cotovelo ajustável para mesas."
+        }
+    ]
+}
